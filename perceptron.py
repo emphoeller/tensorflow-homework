@@ -119,7 +119,7 @@ if __name__ == "__main__":
 
     label_and = np.array([1,0,0,0])
     label_or = np.array([1,1,1,0])
-    label_not_or = np.array([1,0,0,1])
+    label_not_or = np.array([0,0,0,1])
     label_not_and = np.array([0,1,1,1])
     label_xor = np.array([0,1,1,0])
 
